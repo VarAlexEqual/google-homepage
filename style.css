@@ -19,3 +19,27 @@
    margin-top:0px;
 
 }
+
+.dottedlogo{
+  width:32px;
+  height: 32px;
+  background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+  background-position: -132px -38px;
+  margin-left: -20px;
+
+}
+
+.topcontainer ul li {
+  display:inline-block;
+  text-decoration: none;
+  float:right;
+  margin: 5px;
+}
+
+
+
+
+
+.dottedsquare{
+
+}
