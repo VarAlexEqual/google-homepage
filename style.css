@@ -25,7 +25,8 @@
   height: 32px;
   background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
   background-position: -132px -38px;
-  margin-left: -20px;
+  position:relative;
+   bottom:5px;
 
 }
 
@@ -36,10 +37,25 @@
   margin: 5px;
 }
 
+.underbarbut input {
+  width:156px;
+  height:36px;
+  border-radius:0px;
+  border-style:none;
+  background-color: #f5f5f4;
+}
+
+.underbarbut {
+ position:fixed;
+ top:40%;
+ left:50%;
+ margin-left:-157px;
+}
 
 
 
-
-.dottedsquare{
+#loginbu {
+  position:relative;
+  bottom:2px;
 
 }
